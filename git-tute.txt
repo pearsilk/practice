@@ -10,3 +10,8 @@ Simple refreshers about GitHub
 	- git push origin [branch]
 	**N.B.: have to 'git add' and 'git commit -m' a file(s) first
 
+
+so in order:
+- git add
+- git commit
+- git push
