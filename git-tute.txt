@@ -6,6 +6,7 @@ Simple refreshers about GitHub
 - git status
 
 - to add a local repo to github:
-	- go online and do it
+	- go online and create new repo on site
 	- git push origin [branch]
+	**N.B.: have to 'git add' and 'git commit -m' a file(s) first
 
