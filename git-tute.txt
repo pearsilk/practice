@@ -1,0 +1,11 @@
+Simple refreshers about GitHub
+
+- git init to initialize a folder/repo
+- git add to add a file to staging
+- git commit -m "message here" to commit file
+- git status
+
+- to add a local repo to github:
+	- go online and do it
+	- git push origin [branch]
+
